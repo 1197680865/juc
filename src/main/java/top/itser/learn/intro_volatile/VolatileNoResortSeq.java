@@ -1,4 +1,4 @@
-package top.itser.learn;
+package top.itser.learn.intro_volatile;
 
 /**
  * 演示指令重排序

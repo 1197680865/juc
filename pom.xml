@@ -7,6 +7,15 @@
     <groupId>top.itser.learn</groupId>
     <artifactId>juc</artifactId>
     <version>1.0</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.18</version>
+            <optional>true</optional>
+        </dependency>
+    </dependencies>
     <build>
         <plugins>
             <plugin>

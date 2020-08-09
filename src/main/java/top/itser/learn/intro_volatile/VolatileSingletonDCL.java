@@ -1,4 +1,4 @@
-package top.itser.learn;
+package top.itser.learn.intro_volatile;
 
 /**
  * volatile 的使用场景： 单例模式-DCL双检锁模式

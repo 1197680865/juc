@@ -1,4 +1,4 @@
-package top.itser.learn;
+package top.itser.learn.intro_volatile;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
